@@ -1,4 +1,3 @@
-
 function getElementWidth(content, padding, border) {
     // видалення 'px'
     const contentWidth = parseFloat(content);
